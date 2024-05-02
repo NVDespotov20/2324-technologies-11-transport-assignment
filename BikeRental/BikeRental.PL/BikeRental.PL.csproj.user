@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\AddBikeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\BikeRentalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RentBikeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Dashboard Views\MyBikesView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Dashboard Views\MyRentalsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\DashboardView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\MainMenuView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\SignInView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

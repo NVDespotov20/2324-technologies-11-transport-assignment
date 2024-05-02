@@ -1,0 +1,14 @@
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\bin\Debug\net7.0\BikeRental.DAL.deps.json
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\bin\Debug\net7.0\BikeRental.DAL.runtimeconfig.json
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\bin\Debug\net7.0\BikeRental.DAL.dll
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\bin\Debug\net7.0\BikeRental.DAL.pdb
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\BikeRental.DAL.csproj.AssemblyReference.cache
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\BikeRental.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\BikeRental.DAL.AssemblyInfoInputs.cache
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\BikeRental.DAL.AssemblyInfo.cs
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\BikeRental.DAL.csproj.CoreCompileInputs.cache
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\BikeRental.DAL.dll
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\refint\BikeRental.DAL.dll
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\BikeRental.DAL.pdb
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\BikeRental.DAL.genruntimeconfig.cache
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.DAL\obj\Debug\net7.0\ref\BikeRental.DAL.dll

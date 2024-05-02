@@ -1,0 +1,15 @@
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\bin\Debug\net7.0\BikeRental.BLL.deps.json
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\bin\Debug\net7.0\BikeRental.BLL.dll
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\bin\Debug\net7.0\BikeRental.BLL.pdb
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\bin\Debug\net7.0\BikeRental.DAL.dll
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\bin\Debug\net7.0\BikeRental.DAL.pdb
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\BikeRental.BLL.csproj.AssemblyReference.cache
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\BikeRental.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\BikeRental.BLL.AssemblyInfoInputs.cache
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\BikeRental.BLL.AssemblyInfo.cs
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\BikeRental.BLL.csproj.CoreCompileInputs.cache
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\BikeRental.BLL.csproj.CopyComplete
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\BikeRental.BLL.dll
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\refint\BikeRental.BLL.dll
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\BikeRental.BLL.pdb
+D:\Github\2324-technologies-11-transport-assignment-NVDespotov20\BikeRental\BikeRental.BLL\obj\Debug\net7.0\ref\BikeRental.BLL.dll
